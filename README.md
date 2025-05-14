@@ -2,10 +2,13 @@
 
 ###
 # Portfolio Site
-<a href="https://keshav-kumar.vercel.app" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" />
+<a href="https://keshav-kumar.vercel.app" target="_blank" rel="noopener noreferrer" title="Visit my Portfolio">
+  <img 
+    src="https://img.shields.io/badge/Portfolio-Visit%20Site-0A66C2?logo=google-chrome&logoColor=white&style=for-the-badge" 
+    height="35" 
+    alt="Visit Keshav Kumar's Portfolio"
+  />
 </a>
-###
 
 ###
 
