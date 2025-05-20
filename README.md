@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hey there! I'm <span style="color:#00BFFF;">Keshav</span></h2>
+<h2 align="left">👋🏻 Hey there! I'm <span style="color:#00BFFF;">Keshav</span></h2>
 
 ---
 
